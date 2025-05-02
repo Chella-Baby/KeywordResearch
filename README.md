@@ -1,2 +1,2 @@
 # KeywordResearch
-A python utility for keyword research.
+A python utility for SEO keyword research.
